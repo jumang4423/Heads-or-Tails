@@ -1,3 +1,3 @@
 # Heads-or-Tails
 
-written using cpp
+written using c++17
